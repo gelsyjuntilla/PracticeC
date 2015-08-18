@@ -1,9 +1,8 @@
 FRAMEWORK SAMPLE
 
-function A {
+function print_text {
 	print "Hello World";
 }
-
 
 function Hi {
 	print "Hi!";
